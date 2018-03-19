@@ -1,0 +1,1 @@
+select * from admin.emp where empno=12345;
